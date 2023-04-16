@@ -13,3 +13,5 @@
 
 - 📫 How to find me: 
     - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
+
+    - :office: [Gmail](**atharv0777@gmail.com**)
