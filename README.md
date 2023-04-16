@@ -9,7 +9,7 @@
 
 - 🌱 I’m addicted to learning and growing every day
 
-- 💬 Ask me about **Web Development , C++**
+- 💬 Ask me about **Web Development , Java**
 
 - 📫 How to find me: 
     - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
