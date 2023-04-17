@@ -7,11 +7,13 @@ Frontend Developer
 I am a Frontend Developer who loves React!
 
 * 🌍  I'm based in Nashik , Maharashtra
+* 🖥️  See my portfolio at [MyPortfolio](http://atharvpitrubhakta.github.io/My-Portfolio/)
 * ✉️  You can contact me at [atharv0777@gmail.com](mailto:atharv0777@gmail.com)
 * 🧠  I'm learning MERN Stack, React JS and Java.
 * ⚡  I’m addicted to learning and growing every day...
 
-<a href="https://www.twitter.com/atharv0777" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/AtharvPitrubhakta" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/AtharvPitrubhakta?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/atharv0777" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/atharv0777?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
@@ -47,5 +49,3 @@ src="https://img.shields.io/twitter/follow/atharv0777?logo=twitter&style=for-the
 <a href="http://www.github.com/AtharvPitrubhakta"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvPitrubhakta&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/AtharvPitrubhakta"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AtharvPitrubhakta&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/AtharvPitrubhakta" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvPitrubhakta&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
