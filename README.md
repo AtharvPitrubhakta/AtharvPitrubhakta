@@ -7,11 +7,12 @@ Frontend Developer
 
 I am a Frontend Developer who loves React!
 
-* 🌍  I'm based in Nashik , Maharashtra
-* 🖥️  See my portfolio at [MyPortfolio](http://atharvpitrubhakta.github.io/My-Portfolio/)
+* 🌍  I'm based in **Nashik , Maharashtra**
+* 🔭  I’m currently working on **Razorpay Clone Project**
+* 🖥️  See **my portfolio** at [MyPortfolio](http://atharvpitrubhakta.github.io/My-Portfolio/)
 * ✉️  You can contact me at [atharv0777@gmail.com](mailto:atharv0777@gmail.com)
-* 🧠  I'm learning MERN Stack, React JS and Java.
-* ⚡  I’m addicted to learning and growing every day...
+* 🧠  I'm learning **MERN Stack, React JS and c++**.
+* ⚡  I’m addicted to **learning and growing every day**...
 
 <a href="https://www.github.com/AtharvPitrubhakta" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AtharvPitrubhakta?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/atharv0777" target="_blank" rel="noreferrer"><img
