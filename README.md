@@ -8,7 +8,7 @@ Frontend Developer
 I am a Frontend Developer who loves React!
 
 * 🌍  I'm based in **Nashik , Maharashtra**
-* 🔭   I’m currently working on **Razorpay Clone Project**
+* 🔭  I’m currently working on **Discord Clone Project**
 * 🖥️  See **My Portfolio** at [MyPortfolio](http://atharvpitrubhakta.github.io/My-Portfolio/)
 * ✉️  You can contact me at [atharv0777@gmail.com](mailto:atharv0777@gmail.com)
 * 🧠  I'm learning **MERN Stack, React JS and C++**.
