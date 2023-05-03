@@ -10,7 +10,6 @@ I am a Frontend Developer who loves React!
 <a href="https://www.github.com/AtharvPitrubhakta" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AtharvPitrubhakta?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
----
 [![](https://visitcount.itsvg.in/api?id=AtharvPitrubhakta&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
