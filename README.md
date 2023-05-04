@@ -13,10 +13,9 @@ src="https://img.shields.io/github/followers/AtharvPitrubhakta?logo=github&style
 [![](https://visitcount.itsvg.in/api?id=AtharvPitrubhakta&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-📍    I live in Nashik, Maharashtra, India.<br>
+📍  I live in Nashik, Maharashtra, India.<br>
 🔭 I’m currently working on Discord Clone Project.<br>
 👯 I’m looking to collaborate on Frontend Projects.<br>
-🖥️ See My Portfolio at My-Portfolio.<br>
 🌱 I’m currently learning MERN Stack, React JS, C++.<br>
 💬 Ask me about atharv0777@gmail.com<br>
 ⚡ Fun fact I’m addicted to learning and growing every day...
