@@ -29,7 +29,7 @@ src="https://img.shields.io/github/followers/AtharvPitrubhakta?logo=github&style
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AtharvPitrubhakta&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AtharvPitrubhakta&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AtharvPitrubhakta&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvPitrubhakta&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
