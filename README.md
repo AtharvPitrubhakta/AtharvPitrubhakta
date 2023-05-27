@@ -15,7 +15,7 @@ src="https://img.shields.io/github/followers/AtharvPitrubhakta?logo=github&style
 
 # 💫 About Me:
  📍 I live in Nashik, Maharashtra, India.<br>
-🔭 I’m currently working on Youtube Clone Project.<br>
+🔭 I’m currently working on Twitter Clone Project.<br>
 👯 I’m looking to collaborate on Frontend Projects.<br>
 🌱 I’m currently learning MERN Stack, React JS, C++.<br>
 💬 Ask me about atharv0777@gmail.com<br>
