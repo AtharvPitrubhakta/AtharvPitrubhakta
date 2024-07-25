@@ -16,7 +16,7 @@ src="https://img.shields.io/github/followers/AtharvPitrubhakta?logo=github&style
 # 💫 About Me:
 📍 I live in Pune, Maharashtra, India.<br>
 🔭 I’m currently working on Edu-Tech Website(StudyNotion) Project.<br>
-👯 I’m looking to collaborate on Frontend Projects.<br>
+👯 I’m looking to collaborate on Full Stack Projects.<br>
 🌱 I’m currently Working on MERN Stack, React JS, and C++.<br>
 💬 Ask me about atharvpitrubhakta@gmail.com<br>
 ⚡ Fun fact I’m addicted to learning and growing every day...
