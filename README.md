@@ -1,51 +1,134 @@
-<!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Atharv Pitrubhakta -->
-<h1 align="center">Hi 👋, My name is Atharv Pitrubhakta</h1>
+# I'm [Atharv Pitrubhakta](https://github.com/AtharvPitrubhakta)👋
 
-<img align="right" width=400 alt="coding" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-Full Stack Developer(MERN)
---------------------------
-
-I am a Front-End developer who loves React!
-
-<a href="https://www.github.com/AtharvPitrubhakta" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/AtharvPitrubhakta?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-[![](https://visitcount.itsvg.in/api?id=AtharvPitrubhakta&icon=0&color=0)](https://visitcount.itsvg.in)
-
-# 💫 About Me:
-📍 I live in Pune, Maharashtra, India.<br>
-🔭 I’m currently working on Edu-Tech Website(StudyNotion) Project.<br>
-👯 I’m looking to collaborate on Full Stack Projects.<br>
-🌱 I’m currently Working on MERN Stack, React JS, and C++.<br>
-💬 Ask me about atharvpitrubhakta@gmail.com<br>
-⚡ Fun fact I’m addicted to learning and growing every day...
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+Stack+Web+Developer;I'm+Techie+Nerd)](https://git.io/typing-svg)
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/athar.v018/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atharv777/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/atharv0777) 
+<!-- <h2 align="center">
+<img src="assets/party-parrot.gif" width="31" height="31"/>
+<img src="assets/party-parrot.gif" width="31" height="31"/>
+<img src="assets/party-parrot.gif" width="31" height="31"/>
+<img src="https://komarev.com/ghpvc/?username=keshavop&&style=round-square" align="center" />
+<img src="assets/party-parrot-2.gif" width="31" height="31"/>
+<img src="assets/party-parrot-2.gif" width="31" height="31"/>
+<img src="assets/party-parrot-2.gif" width="31" height="31"/>
+</h2> -->
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<img align="right" height="250" width="400" alt="GIF" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fgiphy.gif?alt=media&token=e92f9416-8187-4ffa-a38c-47842be32451"/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AtharvPitrubhakta&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AtharvPitrubhakta&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvPitrubhakta&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+## About me
+### ✨ Creating bugs since  2020
+### 📚 I'm a Techie nerd
+### 🎯 Goals: Hustle to get into 0.1%
+### 🎲 Fun fact: If it's working, don’t touch it
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AtharvPitrubhakta&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br>
 
-<!-- ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/atharv0777)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
+## 🚀 Connect with me
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/AtharvPitrubhakta)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/atharv777/)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/atharv0777)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/athar.v018/)
 
-<!-- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AtharvPitrubhakta&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ## 👨‍💻Coding Profile
 
-<!-- ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/> -->
+<a href="https://www.hackerrank.com/profile/atharv0777" target="blank"><img align="center" src="https://bitbucket.org/keshavop/keshavop-github-readme/raw/1fde8e39893f03e586ec7ed375b9998fcd2ab287/assets/1.png" alt="hackerrank" height="45" width="45" /></a>
+<a href="" target="blank"><img align="center" src="https://bitbucket.org/keshavop/keshavop-github-readme/raw/1fde8e39893f03e586ec7ed375b9998fcd2ab287/assets/2.png" alt="hackerearth" height="45" width="45" /></a>
+<a href="" target="blank"><img align="center" src="https://bitbucket.org/keshavop/keshavop-github-readme/raw/1fde8e39893f03e586ec7ed375b9998fcd2ab287/assets/3.png" alt="codechef" height="45" width="45" /></a>
+<a href="" target="blank"><img align="center" src="https://bitbucket.org/keshavop/keshavop-github-readme/raw/1fde8e39893f03e586ec7ed375b9998fcd2ab287/assets/4.png" alt="codeforces" height="45" width="45" /></a>
+<a href="https://www.geeksforgeeks.org/user/atharv777/" target="blank"><img align="center" src="https://bitbucket.org/keshavop/keshavop-github-readme/raw/1fde8e39893f03e586ec7ed375b9998fcd2ab287/assets/5.png" alt="gfg" height="45" width="45" /></a>
+<a href="https://leetcode.com/u/atharv_777/" target="blank"><img align="center" src="https://bitbucket.org/keshavop/keshavop-github-readme/raw/1fde8e39893f03e586ec7ed375b9998fcd2ab287/assets/6.png" alt="leetcode" height="45" width="45" /></a> -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ## 👨‍💻Coding Profile
+
+<a href="https://www.hackerrank.com/profile/atharv0777" target="blank"><img align="center" src="assets/1.svg" alt="hackerrank" height="45" width="45" /></a>
+<a href="" target="blank"><img align="center" src="assets/2.svg" alt="hackerearth" height="45" width="45" /></a>
+<a href="" target="blank"><img align="center" src="assets/3.svg" alt="codechef" height="45" width="45" /></a>
+<a href="" target="blank"><img align="center" src="assets/4.svg" alt="codeforces" height="45" width="45" /></a>
+<a href="https://www.geeksforgeeks.org/user/atharv777/" target="blank"><img align="center" src="assets/5.svg" alt="gfg" height="45" width="45" /></a>
+<a href="https://leetcode.com/u/atharv_777/" target="blank"><img align="center" src="assets/6.svg" alt="leetcode" height="45" width="45" /></a> -->
+
+## 👨‍💻Coding Profile
+
+<a href="https://www.hackerrank.com/profile/atharv0777" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F1.svg?alt=media&token=9c2b3538-0e15-4486-bcfc-9fed8f6a5d1f" alt="hackerrank" height="45" width="45" /></a>
+<a href="" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F2.svg?alt=media&token=2c41ad25-be30-4bda-b0aa-7e796f6b1633" alt="hackerearth" height="45" width="45" /></a>
+<a href="" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F3.svg?alt=media&token=fd41549b-62c2-4254-993c-c79a07e0bc05" alt="codechef" height="45" width="45" /></a>
+<a href="" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F4.svg?alt=media&token=314ac6c1-95f4-403d-a324-091310e8f54c" alt="codeforces" height="45" width="45" /></a>
+<a href="https://www.geeksforgeeks.org/user/atharv777/" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F5.svg?alt=media&token=dcf0a6d1-d72b-4716-b119-5db5e169480c" alt="gfg" height="45" width="45" /></a>
+<a href="https://leetcode.com/u/atharv_777/" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F6.svg?alt=media&token=2e74ad55-57f2-40aa-adff-c46ea7a8b4c5" alt="leetcode" height="45" width="45" /></a>
+
+## 🛠️Skills
+### I Code in
+
+[![I Code in](https://skillicons.dev/icons?i=c,cpp,js,python)](https://github.com/AtharvPitrubhakta)
+
+<!-- ### Web Development
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,nodejs,express,mongo,react,redux)]() -->
+
+### Frontend
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,angular,figma)](https://github.com/AtharvPitrubhakta)
+
+### Backend
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql)](https://github.com/AtharvPitrubhakta)
+
+### Tools
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,md,ps)](https://github.com/AtharvPitrubhakta)
+
+<hr>
+
+## 📊Github Stats
+
+<!-- <p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavop&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</p>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshavop&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshavop&theme=radical&hide_border=false" alt="keshav github streak">
+</p> -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keshavop&langs_count=10&show_icons=true&locale=en&theme=radical" alt="keshavop" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshavop&show_icons=true&locale=en&theme=radical" alt="keshavop" /></p>
+ 
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshavop&theme=radical" alt="keshavop" /></p>
+
+<!-- ## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavop&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=keshavop&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=keshavop&theme=radical&hide_border=false) -->
+
+
+
+<!-- ### 🐍 Watch Snake eating my contribution -->
+
+<!-- ![snake svg](https://github.com/atharv/atharvrp/blob/output/github-contribution-grid-snake.svg) -->
+
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=atharv&theme=dracula&no-frame=false&no-bg=false&margin-w=4) -->
+
+<!-- [![@keshavop's Holopin board](https://holopin.me/keshavop)](https://holopin.io/@atharv) -->
+
+
+<h2 align="center">
+<img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot.gif?alt=media&token=27a30ea7-24f3-46db-97bd-69351d5411ea" width="31" height="31"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot.gif?alt=media&token=27a30ea7-24f3-46db-97bd-69351d5411ea" width="31" height="31"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot.gif?alt=media&token=27a30ea7-24f3-46db-97bd-69351d5411ea" width="31" height="31"/>
+<img src="https://komarev.com/ghpvc/?username=atharvrp&&style=round-square" align="center" />
+<img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot-2.gif?alt=media&token=4d7be19e-492c-4f18-9ea2-3773989b2721" width="31" height="31"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot-2.gif?alt=media&token=4d7be19e-492c-4f18-9ea2-3773989b2721" width="31" height="31"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot-2.gif?alt=media&token=4d7be19e-492c-4f18-9ea2-3773989b2721" width="31" height="31"/>
+</h2>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+      <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> -->
+  <br/>
+</div>
+
+![](https://i.imgur.com/waxVImv.png)
